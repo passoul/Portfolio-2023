@@ -1,0 +1,17 @@
+{
+	"/": [
+		"src/routes/+page.ts"
+	],
+	"/download": [
+		"src/routes/download/+page.ts"
+	],
+	"/skills": [
+		"src/routes/skills/+page.ts"
+	],
+	"/tools": [
+		"src/routes/tools/+page.ts"
+	],
+	"/trust": [
+		"src/routes/trust/+page.ts"
+	]
+}
